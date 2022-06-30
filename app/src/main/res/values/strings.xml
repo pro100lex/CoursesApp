@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Courses App</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contacts">Контакты</string>
+    <string name="about_us">Про нас</string>
+    <string name="main_page">Главная</string>
+    <string name="logo_of_app1">Courses</string>
+    <string name="logo_of_app2">App</string>
+    <string name="filter_icon">Filter</string>
+    <string name="pole_category">Pole category</string>
+</resources>
